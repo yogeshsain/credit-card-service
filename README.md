@@ -1,5 +1,5 @@
 # credit-card-service
-A spring boot service for Add a credit card with valid credit card number.
+A spring boot service to Add a credit card with valid card number.
 The credit card number will be validated using Luhn 10 Algorithm.
 
 
